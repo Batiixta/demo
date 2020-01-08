@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    { "sku": 573300, "nombre": "ZDS Shoes", "color": "Negro", "talla": 28.5, "sexo": "Hombre", "calce": "normal", "precios": 235.20, "preciop": 351, "pagina": 123, "catalogo": "otoño invierno 2018", "cantidad": 52 },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ]
